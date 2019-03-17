@@ -1,9 +1,9 @@
 #! python3
-# Implementations of a queue (first in, first out)
+# Implementations of a queue (first-in, first-out)
 
 from stack import stack
 
-# standard first in, first out implementation
+# standard first-in, first-out implementation
 class queue():
 
     def __init__(self):

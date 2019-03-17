@@ -1,5 +1,5 @@
 #! python3
-# Implementation of a stack (last in, first out)
+# Implementation of a stack (last-in, first-out)
 
 class stack():
 
