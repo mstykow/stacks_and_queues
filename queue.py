@@ -72,7 +72,7 @@ class stack_queue():
         if self.size() == 0:
             return None
         else:
-            return self.s.pop()
+            return self.queue.pop()
     
     def head(self):
         if self.is_empty():
